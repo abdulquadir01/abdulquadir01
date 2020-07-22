@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**abdulquadir01/abdulquadir01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Here are some ideas to get you started:
+<h2> Here are some ideas to get you started: </h2>
 
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning JavaScript
