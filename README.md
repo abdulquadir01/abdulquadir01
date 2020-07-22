@@ -11,6 +11,5 @@
 - 🤔 I’m looking for help with resources to learn ReactJS
 - 💬 Ask me about JavaScript, Python, C/C++
 - 📫 Reach me @ abdulquadir01@outlook.com 
-- 😄 Pronouns: 
 - ⚡ Fun fact: I'm a beignner in open source world!
 
