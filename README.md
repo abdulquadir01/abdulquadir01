@@ -9,5 +9,5 @@
 - 👯 I’m not looking for any type of collaboration right now 😅
 - 💬 Ask me about JavaScript, Python, C/C++
 - 📫 Reach me @ abdulquadir01@outlook.com 
-- ⚡ Fun fact: I'm a beignner in open source world!
+- ⚡ Fun fact: I'm a beignner to <strong>open source world!</strong>
 
