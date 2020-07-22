@@ -7,8 +7,8 @@
 
 - 🔭 I’m currently working on ReactJs
 - 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on nothing right now 😅
-- 🤔 I’m looking for help with resources to learn ReactJS
+- 👯 I’m not looking for any type of collaboration right now 😅
+### - 🤔 I’m looking for help with resources to learn ReactJS
 - 💬 Ask me about JavaScript, Python, C/C++
 - 📫 Reach me @ abdulquadir01@outlook.com 
 - ⚡ Fun fact: I'm a beignner in open source world!
