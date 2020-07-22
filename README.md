@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h2> Here are some ideas to get you started: </h2>
+<h2> Here are some ideas to get you started... </h2>
 
 - 🌱 I’m currently learning JavaScript
 - 🤔 <strong>I’m looking for good resources to learn ReactJS </strong>
