@@ -7,7 +7,7 @@
 - 🤔 <strong>I’m looking for good resources to learn ReactJS </strong>
 - 🔭 I’m currently working on ReactJs
 - 👯 I’m not looking for any type of collaboration right now 😅
-- 💬 Ask me about JavaScript, Python, C/C++
-- 📫 Reach me @ N/A 
+- 💬 Ask me about JavaScript, Java, Python, C/C++
+- 📫 Reach me @ xxxxxxxxxxxxxxxxxxxxxxxxxx
 - ⚡ Fun fact: I'm a beignner to <strong>open source world!</strong>
 
