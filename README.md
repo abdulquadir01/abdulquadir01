@@ -32,6 +32,5 @@
 <br />
 <br />
 
-
 [website]: https://wwww.abdulquadir01.github.io
 [linkedin]: https://www.linkedin.com/in/abdulquadir01/
