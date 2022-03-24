@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdul 👋
 
 
-<h2> I'm a Developer, Photographer, human... </h2>
+<h2> I'm a Developer, Photographer... </h2>
 
 - 🌱 I’m currently learning Spring, SpringBoot, Microservices, React....
 - 🙌 <strong>I’m looking forward to connect with awesome people </strong>
