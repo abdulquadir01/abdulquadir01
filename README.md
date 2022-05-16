@@ -1,16 +1,15 @@
-### Hi there, I'm Abdul 👋
+### Hey there 👋
 
 
-<h2> I'm a Developer, Photographer... </h2>
+<h2> Developer | Photographer | Human </h2>
 
-- 🌱 I’m currently learning Spring, SpringBoot, Microservices, React....
-- 🙌 <strong>I’m looking forward to connect with awesome people </strong>
-- 🔭 I’m currently working on my health...
-- ⚡ Fun fact: I sketch or take a ride on my bike during weekends...
+- 🌱 Learning Spring Framework, Spring Boot, Microservices, ReactJS
+- 🙌 <strong>Looking forward to connect with awesome people </strong>
+- ⚡ For fun : I sketch or bike rides on weekends
 
 ### Connect with me:
 (Old)
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] 
+<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> [website] 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
