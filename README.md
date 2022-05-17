@@ -5,7 +5,7 @@
 
 - 🌱 Learning Spring Framework, Spring Boot, Microservices, ReactJS
 - 🙌 <strong>Looking forward to connect with awesome people </strong>
-- ⚡ Sketch | go on a long drive 🏍 | anything/everything on weekends
+- ⚡ Sketch | go on a long drive 🏍 | anything/everything
 
 ### Connect with me:
 <br />
