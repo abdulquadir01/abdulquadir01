@@ -1,11 +1,12 @@
 ### Hey there 👋
 
 
-<h2> Developer | Photographer | Human </h2>
+<h2> Developer | Photographer </h2>
 
-- 🌱 Learning Spring Framework, Spring Boot, Microservices, ReactJS
+- ✨ Spring Framework, Microservices, ReactJS
+
 - 🙌 <strong>Looking forward to connect with awesome people </strong>
-- ⚡ Sketch | go on a long drive 🏍 | anything/everything
+
 
 ### Connect with me:
 <br />
