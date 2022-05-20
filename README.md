@@ -69,10 +69,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &ensp;
 </p>
 
-</br></br>
+<br/><br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulquadir01&show_icons=true&locale=en&layout=compact" alt="abdulquadir01" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abdulquadir01&show_icons=true&locale=en" alt="abdulquadir01" /></p>
+<br/>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir01&" alt="abdulquadir01" /></p>
