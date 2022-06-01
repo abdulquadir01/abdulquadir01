@@ -3,7 +3,7 @@
 
 ## Hey there 👋
 
-<h2> Full Stack Developer | Photographer </h2>
+<h2> Full Stack Web Developer | Photographer </h2>
 
 - ✨ <strong> Spring Framework, Microservices, ReactJS </strong>
 
