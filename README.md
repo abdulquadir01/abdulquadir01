@@ -11,7 +11,7 @@
 
 - 📫 Drop a mail at **abdulquadir01@outlook.com**
 
-- 🔭 Working on **shopE**, a SpringBoot project 
+- 🔭 Working on **shopE**, an eCom web-app build on top of SpringBoot 
 
 - 🌱 Learning **everything**
 
