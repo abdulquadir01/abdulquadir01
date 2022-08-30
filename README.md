@@ -6,15 +6,12 @@
 
 <h2> Backend Developer | Photographer </h2>
 
-<strong> I build things for web </strong>
 
-- ✨ <strong> Spring Framework, Microservices, ReactJS </strong>
+- ✨ <strong> I build things for web. </strong>
 
 - 🙌 Looking forward to connect with  **awesome people**
 
-- 📫 Drop a mail at **abdulquadir01@outlook.com**
-
-- 🔭 Working on **shopE**, an eCom web-app build on top of SpringBoot 
+- 🔭 Working on **shopE**, an eCom web app build on top of Spring 
 
 - 🌱 Learning **everything**
 
