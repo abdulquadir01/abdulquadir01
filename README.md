@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulquadir01&label=Profile%20views&color=0e75b6&style=flat" alt="abdulquadir01" /> </p>
 <br/>
 
-## Hey there 👋
+## Hi there 👋
 
 <h2> Backend Developer | Photographer </h2>
 
