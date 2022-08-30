@@ -6,7 +6,7 @@
 
 <h2> Backend Developer | Photographer </h2>
 
-I build things for web
+<strong> I build things for web </strong>
 
 - ✨ <strong> Spring Framework, Microservices, ReactJS </strong>
 
