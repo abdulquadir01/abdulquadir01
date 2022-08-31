@@ -1,11 +1,10 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulquadir01&label=Profile%20views&color=0e75b6&style=flat" alt="abdulquadir01" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=abdulquadir01&label=Profile%20views&color=0e75b6&style=flat" alt="abdulquadir01" /> 
+</p>
 <br/>
 
-## Hi there 👋
- 
-
-<h2> Backend Developer | Photographer </h2>
-
+## Hi there 👋, I build:technologist: things!
+#### Backend Developer | Photographer
 
 - ✨ <strong> I build things for web. </strong>
 
@@ -23,6 +22,8 @@
 <a href="https://www.hackerrank.com/abdulquadir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abdulquadir" height="45" width="45" /></a>
 </p>
 
+
+<!--
 <h3 align="left">Languages:</h3>
 <p align="left">
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  &ensp;
@@ -31,6 +32,9 @@
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &ensp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  </p>
+ -->
+ 
+ 
  
 <h3 align="left">Web Development:</h3>
 <!-- <h3 align="left">Frontend:</h3> -->
@@ -71,9 +75,18 @@
 
 <br/><br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulquadir01&show_icons=true&locale=en&layout=compact" alt="abdulquadir01" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abdulquadir01&show_icons=true&locale=en" alt="abdulquadir01" /></p>
+<b>&#128200; Some GitHub Stats </b>
 
 
-<p><br/><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquadir01&" alt="abdulquadir01" /></p>
+<p float="left">
+<!--
+ <img align="left" src="https://leetcard.jacoblin.cool/raj713335?theme=light&font=Karma&ext=contest" height="200" width="400"/>
+ -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulquadir01&show_icons=true&hide_border=true&layout=compact&langs_count=10" height="200" width="400" />
+</p>
+
+
+<p float="left">
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=abdulquadir01&theme=default&hide_border=true" height="200" width="400"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=abdulquadir01&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="400"/>
+</p>
