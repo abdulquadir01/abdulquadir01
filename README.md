@@ -13,7 +13,6 @@
 
 ### Hi there 👋, I build:technologist: things!
 
-
 - 🔭 I’m currently working with Spring Framework.
 - 🌱 I’m currently learning AWS.
 - :handshake: I’m looking to collaborate on SpringBoot or React projects.
@@ -41,11 +40,7 @@
 
 <br/>
 
-
-
-
 <strong>&#128200; Some GitHub Stats </strong>
-
 
 <p float="left">
 <!--
@@ -54,15 +49,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulquadir01&show_icons=true&hide_border=true&layout=compact&langs_count=10" height="200" width="400" />
 </p>
 
-
 <p float="left">
 <img align="left" src="http://github-readme-streak-stats.herokuapp.com/?user=abdulquadir01&theme=default&hide_border=true" height="200" width="400"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=abdulquadir01&theme=default&show_icons=true&count_private=true&hide_border=true" height="200" width="400"/>
 </p>
   
-
-
-
-
-
-
