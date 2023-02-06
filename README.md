@@ -3,7 +3,7 @@
 </p>
 
 ## Hi there 👋
-#### Backend Developer | Photographer
+#### I'm a Backend Developer | Photographer
 
 - ✨ <strong> I build:technologist: things! </strong>
 - 🙌 Looking forward to connect with  **awesome people**
